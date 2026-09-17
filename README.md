@@ -38,6 +38,14 @@ And when you one day encounter again the knowledge that once left you lost or in
 
 The Skill will stand in the distance, watching as you walk farther and farther on your own.
 
+## 致谢
+
+特别感谢我的高中物理老师刘老师。正是他解答我们问题的方式，给了我创作这个 Skill 的灵感。
+
+## Acknowledgements
+
+Special thanks to my high school physics teacher, Mr. Liu. The way he answered our questions inspired me to create this Skill.
+
 ## License
 
 Copyright © 2026 gehou25.
