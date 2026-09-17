@@ -1,0 +1,6 @@
+interface:
+  display_name: "General Learning"
+  short_description: "Adaptive teaching, problem solving, and consolidation"
+  default_prompt: "Use $general-learning to diagnose what I know, guide my attempt, and help me consolidate what I learn."
+policy:
+  allow_implicit_invocation: true
