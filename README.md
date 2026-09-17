@@ -37,3 +37,21 @@ I hope it can be a Shifu, leading you to the doorway of the knowledge you wish t
 And when you one day encounter again the knowledge that once left you lost or in pain, a quiet, confident smile will appear on your face.
 
 The Skill will stand in the distance, watching as you walk farther and farther on your own.
+
+## License
+
+Copyright © 2026 gehou25.
+
+Unless otherwise noted, the original materials in this repository are licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+You are free to share and adapt these materials, including for commercial purposes, provided that you:
+
+- give appropriate credit;
+- provide a link to the license;
+- indicate whether changes were made.
+
+## Contributing
+
+If you find a problem, have a suggestion, or improve this Skill, please open an Issue or submit a Pull Request.
+
+Thoughtful criticism, improvements, and discussion are welcome.
