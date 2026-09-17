@@ -1,6 +1,14 @@
-# General Learning Skill
+# Shifu
 
-[中文](#中文) | [English](#english)
+### Learn to Think, Not Just to Get Answers
+
+A learning Skill that helps you understand deeply, solve independently,
+and gradually become able to walk farther on your own.
+
+### 学会思考，而不只是得到答案
+
+一个帮助你深入理解、独立解决问题，
+并最终能够独自走得更远的学习 Skill。
 
 ## 中文
 
